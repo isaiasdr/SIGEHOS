@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body{
+    font-family: 'Roboto',sans-serif;
+    background: #5bbff0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2948ff, #5bbff0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2948ff, #5bbff0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+
+}
+.main-section{
+    margin: 0 auto;
+    margin-top: 15%;
+    padding: 0;
+}
+.modal-content {
+    
+    opacity: .95;
+    padding: 0 18px;
+    box-shadow: 0px 0px 3px #848484;
+}
+
+.logo {
+    border-radius: 4px;
+    max-width: 100%;
+    height: auto;
+}
+
+#main-container {
+    padding: 2%;
+}
+
+#secondary-container {
+    background-color: #eaedf5;
+    padding-bottom: 1%;
+}
+
+.title-sigehos {
+    padding-top: 1%;
+}
+
+.box-border {
+    border: 1px;
+    border-style: solid;
+    border-radius: 25px;
+    padding-top: .5em !important;
+    padding-left: .5em !important;
+    padding-right: .5em !important;
+    border-color:  #7a87ac;
+}
+
+.nav-color {
+   background-color: #e1e1e1;
+}
+
+.p-top {
+    padding-top: .5em !important;
+}
+
+.size {
+    height: 130%;
+}
+
+.thead {
+    background-color: #b7bef2;
+    border-radius:10px;
+}
+
+.modal-mensaje {
+    font-size: large;
+}
+
+.boton-espaciado {
+    margin: 10px;
+}
+
+.check-rojo {
+    color: red;
+}
+
+.check-azul {
+    color: blue;
+}
+
+.td-azul {
+    color: blue;
+}
+
+.td-red {
+    color: red;
+}
+
+div.form-group > .boton-espaciado {
+    width: 10%;
+    height: 50px;
+}
