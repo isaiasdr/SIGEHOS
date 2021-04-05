@@ -7,3 +7,4 @@ Redesing of SIGEHOS IAHUC (Instituto Autonomo Hospital Universitario de Caracas)
 3. execute: npm run prod
 4. execute: php artisan serve
 5. ready to use!!
+PD: use user: isaias21 and password 12345 to access
